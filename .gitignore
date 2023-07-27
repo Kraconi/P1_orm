@@ -1,0 +1,6 @@
+node_modules/
+
+# Cypress media
+cypress/screenshots/
+cypress/videos/
+cypress/reports/

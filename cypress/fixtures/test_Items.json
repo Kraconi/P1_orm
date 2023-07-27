@@ -1,0 +1,23 @@
+{
+  "credentials": 
+  {
+    "admin_username": "Admin",
+    "admin_password": "admin123"
+  },
+
+  "employee":
+  {
+    "firstName":"FirstName_Test",
+    "lastName":"LastName_Test",
+    "middleName":"MiddleName_Test",
+    "username":"Username_Test",
+    "password":"Password123_Test"
+  },
+  "url":
+  {
+    "PIM":"https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList",
+    "AddPIM":"https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee",
+    "Home":"https://opensource-demo.orangehrmlive.com/",
+    "Time":"https://opensource-demo.orangehrmlive.com/web/index.php/time/viewMyTimesheet"
+  }
+}
